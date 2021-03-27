@@ -116,7 +116,7 @@ module.exports = {
       },
     },
     {
-      resolve: '@vtex/gatsby-plugin-nginx',
+      resolve: 'gatsby-plugin-netlify',
     },
   ],
 }
