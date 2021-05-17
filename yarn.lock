@@ -2589,10 +2589,10 @@
     gatsby-graphql-source-toolkit "^0.6.3"
     p-map "^4.0.0"
 
-"@vtex/gatsby-plugin-google-tag-manager@0.282.0":
-  version "0.282.0"
-  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-google-tag-manager/-/gatsby-plugin-google-tag-manager-0.282.0.tgz#119f1787e261daf1413207c2a624d26ac76e6c03"
-  integrity sha512-iFIbqatF03uf7zX2YEnFqwgn724lLlSuwRdLI0wT/ue+69d0FW9tKKZojiH/B4Rlxlngs+q/vEBwQWPfuYaKfA==
+"@vtex/gatsby-plugin-google-tag-manager@0.340.0":
+  version "0.340.0"
+  resolved "https://registry.yarnpkg.com/@vtex/gatsby-plugin-google-tag-manager/-/gatsby-plugin-google-tag-manager-0.340.0.tgz#68413b52f4fd4c7481dab849a7dd0799e6177487"
+  integrity sha512-BIkGRU4ysp82+WFZEs3iIpKYCovnzVX9ybYyTMoGaIxUecJsHi4vl6yskXCCJBN6tK06jZ+wLY9ZQrIBr6whzw==
 
 "@vtex/gatsby-plugin-graphql@0.281.1":
   version "0.281.1"
