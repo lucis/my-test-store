@@ -2688,10 +2688,10 @@
     schema-dts "^0.6.0"
     swr "^0.3.0"
 
-"@vtex/lighthouse-config@^0.281.1":
-  version "0.281.1"
-  resolved "https://registry.yarnpkg.com/@vtex/lighthouse-config/-/lighthouse-config-0.281.1.tgz#ab838fc1192bc64ccd96e83b69858705396c9c25"
-  integrity sha512-zQnwe6wMBJyqO2iwI6fKhcr+mSJgEmC7Sws3BgQCQcCKe4lGIdECmbJFQqFUeXzlvKSna/qwfY81Q4KaxHUmKA==
+"@vtex/lighthouse-config@^1.3.35":
+  version "1.3.35"
+  resolved "https://registry.yarnpkg.com/@vtex/lighthouse-config/-/lighthouse-config-1.3.35.tgz#c0540ce911ad58c9f3ee86e5bc5367cdbf9e8a7c"
+  integrity sha512-KpK5+g7mRAU1moLj50ik+ePPX9KRn6FvjNk7Ue3CHol9RBpO1G43IE8MVWO5D7ZgpxuAs/KO59WhtuO7Bo63ww==
 
 "@vtex/prettier-config@^0.3.5":
   version "0.3.6"
